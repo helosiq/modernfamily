@@ -1,0 +1,20 @@
+#cabecalho {
+    background-color: #f88b5c;
+    top: 0vh;
+    border-radius: 20px;
+}
+
+p {
+    font-size: larger;
+    text-align: justify;
+}
+h3 {
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #fa550f;
+}
+#rodape{
+    background-color: #ffb190;
+    border-radius: 15px;
+    z-index: 1;
+}
